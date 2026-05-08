@@ -1,0 +1,15 @@
+<svg width="140" height="36" viewBox="0 0 140 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon: download arrow inside rounded square -->
+  <rect width="36" height="36" rx="9" fill="#111"/>
+  <!-- Down arrow shaft -->
+  <line x1="18" y1="10" x2="18" y2="22" stroke="white" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- Arrowhead -->
+  <polyline points="12,18 18,24 24,18" fill="none" stroke="white" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Base line -->
+  <line x1="12" y1="27" x2="24" y2="27" stroke="white" stroke-width="2.2" stroke-linecap="round"/>
+
+  <!-- Wordmark: Save -->
+  <text x="46" y="24" font-family="'SF Pro Display', -apple-system, 'Segoe UI', sans-serif" font-size="18" font-weight="600" fill="#111" letter-spacing="-0.5">Save</text>
+  <!-- Wordmark: Vid (accent color) -->
+  <text x="89" y="24" font-family="'SF Pro Display', -apple-system, 'Segoe UI', sans-serif" font-size="18" font-weight="600" fill="#5b9cf6" letter-spacing="-0.5">Vid</text>
+</svg>
