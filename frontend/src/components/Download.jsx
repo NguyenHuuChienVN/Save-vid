@@ -70,8 +70,6 @@ const handleDownload = async () => {
     try {
         const res = await axios.get(`${API}/download`, {
             params: { url, quality },
-            headers: { "ngrok-skip-browser-warning": "true" },
-            responseType: "blob",
         });
         
 
